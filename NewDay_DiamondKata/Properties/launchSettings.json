@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NewDay_DiamondKata": {
+      "commandName": "Project",
+      "commandLineArgs": "A"
+    }
+  }
+}
